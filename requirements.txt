@@ -1,0 +1,25 @@
+# This repo builds with the Quarto CLI (not a Python package).
+# Keep this file for optional Python/Jupyter dependencies used by Quarto when you
+# add executable Python chunks (```{python}) or render notebooks.
+#
+# System requirements (install separately):
+# - Quarto CLI: https://quarto.org/docs/get-started/
+#
+# Optional system requirements (install separately, only if you use them):
+# - Python 3.10+ (for Python execution)
+# - R + {knitr} (for R execution)
+# - TinyTeX / TeX Live (for PDF output)
+#
+# Install (Python, optional):
+#   python -m pip install -r requirements.txt
+
+# Minimal Jupyter stack for Quarto's Python engine
+jupyter>=1.0.0
+ipykernel>=6.0.0
+nbclient>=0.8.0
+nbformat>=5.0.0
+
+# Optional interactive charts (only if you use them in pages)
+# pandas>=2.0.0
+# plotly>=5.0.0
+# altair>=5.0.0

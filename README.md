@@ -14,6 +14,16 @@ A personal portfolio website built with Quarto, showcasing GitHub projects, tech
 
 - [Quarto](https://quarto.org/docs/get-started/) installed on your system
 
+### Optional (Python / Jupyter)
+
+If you add Python code blocks (e.g., ```{python}) or render notebooks, install Python 3.10+ and:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+If you add Python code blocks later, keep using `requirements.txt` for your optional Python dependencies.
+
 ## Installation
 
 1. Clone this repository:

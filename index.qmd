@@ -1,50 +1,81 @@
 ---
-title: "Welcome to My Portfolio"
+title: ""
+pagetitle: "Taylor's Portfolio"
+page-layout: full
+format:
+  html:
+    toc: false
 ---
 
-## Hi there! 👋
+```{=html}
+<style>
+  /* Landing page: hide Quarto's default title block */
+  #title-block-header { display: none; }
+</style>
+```
 
-Welcome to my personal portfolio and project showcase. This site features:
+::: {.od-section}
+```{=html}
+<section class="od-squig-hero">
+  <div class="od-squig-inner">
+    <h1 class="od-squig-title">Hi there!</h1>
+    <p class="od-squig-lead">Welcome to my personal portfolio and project showcase. This site features:</p>
+    <ul class="od-feature-list">
+      <li><strong>GitHub Projects</strong>: A collection of my software development projects</li>
+      <li><strong>Articles &amp; Insights</strong>: Technical articles and interesting information</li>
+      <li><strong>Random Projects</strong>: Other creative endeavors and experiments</li>
+    </ul>
+    <p class="od-squig-note">Feel free to explore the different sections using the navigation menu above.</p>
+  </div>
 
-- **GitHub Projects**: A collection of my software development projects
-- **Articles & Insights**: Technical articles and interesting information
-- **Random Projects**: Other creative endeavors and experiments
+  <svg class="od-squig-divider" viewBox="0 0 1440 360" preserveAspectRatio="none" aria-hidden="true">
+    <path class="od-squig-layer od-squig-layer-1"
+      d="M0,120 C240,210 420,20 650,120 C880,220 1040,30 1260,120 C1360,160 1420,160 1440,146
+         C1440,230 1250,330 980,305 C720,282 520,350 250,312 C120,294 50,265 0,242 Z" />
+    <path class="od-squig-layer od-squig-layer-2"
+      d="M0,150 C260,240 470,60 700,150 C930,246 1080,72 1300,150 C1385,180 1430,184 1440,176
+         C1440,250 1280,340 1010,318 C760,296 560,360 300,332 C150,316 70,286 0,262 Z" />
+    <path class="od-squig-layer od-squig-layer-3"
+      d="M0,190 C280,276 520,110 780,190 C1040,270 1160,122 1360,190 C1410,206 1435,214 1440,210
+         C1440,278 1320,352 1080,338 C840,324 640,370 380,352 C200,340 90,312 0,286 Z" />
+  </svg>
+</section>
+```
+:::
 
-Feel free to explore the different sections using the navigation menu above.
-
-### What You'll Find Here
+::: {.od-section}
+## What you'll find here
 
 ::: {.grid}
 
 ::: {.g-col-4}
-#### 🚀 Projects
+#### Projects
 Explore my GitHub repositories and other software projects I've worked on.
 
 [View Projects →](projects.qmd)
 :::
 
 ::: {.g-col-4}
-#### 📝 Articles
+#### Articles
 Read technical articles, tutorials, and interesting information on various topics.
 
 [Read Articles →](articles.qmd)
 :::
 
 ::: {.g-col-4}
-#### 👤 About
+#### About
 Learn more about me and my background.
 
 [About Me →](about.qmd)
 :::
 
 :::
+:::
 
-### Recent Highlights
+::: {.od-section}
+## Recent highlights
 
 - Check out my latest GitHub projects on the [Projects](projects.qmd) page
 - Read my newest articles on the [Articles](articles.qmd) page
 - Connect with me on GitHub
-
----
-
-*This site is built with [Quarto](https://quarto.org), an open-source scientific and technical publishing system.*
+:::
