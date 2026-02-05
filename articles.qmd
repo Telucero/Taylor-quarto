@@ -1,0 +1,104 @@
+---
+title: "Articles & Information"
+---
+
+## Technical Articles and Insights
+
+Welcome to my collection of articles covering various topics in software development, technology, and other interests.
+
+---
+
+### Latest Articles
+
+#### Getting Started with Quarto for Static Sites
+*Published: February 2026*
+
+Quarto is an amazing tool for creating static websites, technical documentation, and presentations. In this article, I'll share my experience setting up this portfolio site.
+
+**What is Quarto?**
+
+Quarto is an open-source scientific and technical publishing system. It allows you to:
+
+- Write content in Markdown
+- Create beautiful websites, documents, and presentations
+- Include code and computational output
+- Publish to various formats (HTML, PDF, Word, etc.)
+
+**Key Benefits:**
+
+1. **Simple**: Write in plain text with Markdown
+2. **Powerful**: Support for Python, R, Julia, and Observable
+3. **Flexible**: Multiple output formats
+4. **Beautiful**: Professional-looking results out of the box
+
+[Learn more about Quarto →](https://quarto.org)
+
+---
+
+#### The Power of Static Site Generators
+*Published: January 2026*
+
+Static site generators have revolutionized web development by offering a perfect balance between simplicity and functionality.
+
+**Why Use Static Sites?**
+
+- **Performance**: Fast loading times
+- **Security**: No server-side vulnerabilities
+- **Simplicity**: Easy to deploy and maintain
+- **Cost-effective**: Can be hosted for free on platforms like GitHub Pages
+
+**Popular Static Site Generators:**
+
+- Jekyll (Ruby-based)
+- Hugo (Go-based)
+- Gatsby (React-based)
+- Quarto (Multi-language support)
+
+---
+
+#### Version Control Best Practices
+*Published: December 2025*
+
+Effective use of version control is crucial for any software development project. Here are some best practices I follow:
+
+**Key Practices:**
+
+1. Write clear, descriptive commit messages
+2. Commit frequently with small, logical changes
+3. Use branches for features and experiments
+4. Review code before merging
+5. Keep your main branch clean and deployable
+
+**Git Tips:**
+
+```bash
+# View your commit history
+git log --oneline --graph
+
+# Create a new feature branch
+git checkout -b feature/new-feature
+
+# Stage and commit changes
+git add .
+git commit -m "Add new feature"
+```
+
+---
+
+### Random Interesting Information
+
+#### Did You Know?
+
+- The first website ever created is still online at CERN
+- GitHub was launched in 2008 and now hosts over 100 million repositories
+- Markdown was created in 2004 by John Gruber and Aaron Swartz
+
+---
+
+### Coming Soon
+
+- Tutorial: Building a REST API
+- Article: Introduction to Machine Learning
+- Guide: Effective Code Review Strategies
+
+Check back regularly for new content!
