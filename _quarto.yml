@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Taylor's Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: articles.qmd
+        text: Articles
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "© 2026 Taylor. Built with Quarto."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

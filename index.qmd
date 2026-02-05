@@ -1,0 +1,50 @@
+---
+title: "Welcome to My Portfolio"
+---
+
+## Hi there! 👋
+
+Welcome to my personal portfolio and project showcase. This site features:
+
+- **GitHub Projects**: A collection of my software development projects
+- **Articles & Insights**: Technical articles and interesting information
+- **Random Projects**: Other creative endeavors and experiments
+
+Feel free to explore the different sections using the navigation menu above.
+
+### What You'll Find Here
+
+::: {.grid}
+
+::: {.g-col-4}
+#### 🚀 Projects
+Explore my GitHub repositories and other software projects I've worked on.
+
+[View Projects →](projects.qmd)
+:::
+
+::: {.g-col-4}
+#### 📝 Articles
+Read technical articles, tutorials, and interesting information on various topics.
+
+[Read Articles →](articles.qmd)
+:::
+
+::: {.g-col-4}
+#### 👤 About
+Learn more about me and my background.
+
+[About Me →](about.qmd)
+:::
+
+:::
+
+### Recent Highlights
+
+- Check out my latest GitHub projects on the [Projects](projects.qmd) page
+- Read my newest articles on the [Articles](articles.qmd) page
+- Connect with me on GitHub
+
+---
+
+*This site is built with [Quarto](https://quarto.org), an open-source scientific and technical publishing system.*

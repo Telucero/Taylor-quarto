@@ -1,0 +1,63 @@
+---
+title: "About Me"
+---
+
+## Hello! I'm Taylor
+
+Welcome to my personal portfolio website. I'm passionate about software development, technology, and continuous learning.
+
+### Background
+
+I'm a developer interested in:
+
+- **Web Development**: Building responsive and user-friendly websites
+- **Data Science**: Analyzing data and creating visualizations
+- **Open Source**: Contributing to and learning from open source projects
+- **Technical Writing**: Sharing knowledge through articles and documentation
+
+### Skills & Technologies
+
+**Programming Languages:**
+- Python
+- JavaScript
+- R
+- SQL
+
+**Tools & Frameworks:**
+- Git & GitHub
+- Quarto
+- Web Technologies (HTML, CSS, JavaScript)
+- Data Analysis Libraries
+
+**Interests:**
+- Static Site Generation
+- Documentation
+- Automation
+- Machine Learning
+
+### This Website
+
+This portfolio site is built with [Quarto](https://quarto.org), an open-source scientific and technical publishing system. It serves as a central hub for:
+
+- Showcasing my GitHub projects
+- Sharing technical articles and tutorials
+- Providing information about my work and interests
+
+### Connect With Me
+
+- **GitHub**: [github.com/Telucero](https://github.com/Telucero)
+- **Repository**: [Taylor-quarto](https://github.com/Telucero/Taylor-quarto)
+
+### About This Site
+
+The site is:
+- Built with Quarto
+- Written in Markdown
+- Version controlled with Git
+- Hosted on GitHub
+
+Feel free to explore the [Projects](projects.qmd) and [Articles](articles.qmd) sections to learn more about my work!
+
+---
+
+*Last updated: February 2026*

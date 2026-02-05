@@ -1,0 +1,64 @@
+---
+title: "Projects"
+---
+
+## My GitHub Projects
+
+Here's a showcase of my software development projects and contributions.
+
+### Featured GitHub Repositories
+
+#### Taylor-quarto
+**Repository**: [Telucero/Taylor-quarto](https://github.com/Telucero/Taylor-quarto)
+
+A personal portfolio website built with Quarto, showcasing my projects, articles, and information about my work.
+
+**Technologies**: Quarto, Markdown, HTML/CSS
+
+---
+
+### Other Projects
+
+#### Project 1: Data Analysis Tool
+A custom data analysis tool for processing and visualizing large datasets.
+
+**Features**:
+- Real-time data processing
+- Interactive visualizations
+- Export to multiple formats
+
+**Status**: In Development
+
+---
+
+#### Project 2: Web Scraper
+An automated web scraping tool for collecting and organizing information from various sources.
+
+**Features**:
+- Configurable scraping rules
+- Data validation and cleaning
+- Scheduled automation
+
+**Status**: Active
+
+---
+
+#### Project 3: Machine Learning Experiment
+Experimental machine learning project exploring different algorithms and techniques.
+
+**Features**:
+- Multiple ML algorithms
+- Performance comparisons
+- Visualization of results
+
+**Status**: Experimental
+
+---
+
+### Open Source Contributions
+
+I actively contribute to open source projects. Check out my [GitHub profile](https://github.com/Telucero) to see my latest contributions.
+
+### Want to Collaborate?
+
+If you're interested in collaborating on any projects or have questions, feel free to reach out through GitHub or the contact information on my [About](about.qmd) page.

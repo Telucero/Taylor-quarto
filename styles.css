@@ -1,0 +1,54 @@
+/* Custom styles for Taylor's Portfolio */
+
+/* Improve readability */
+body {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Style the grid cards on homepage */
+.grid {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.g-col-4 {
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.g-col-4:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Improve code blocks */
+pre {
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+/* Style links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Improve section spacing */
+hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 2px solid #e0e0e0;
+}
+
+/* Style article metadata */
+em {
+  color: #666;
+}
