@@ -46,9 +46,23 @@ The generated site will be in the `_site/` directory.
 
 ## Publishing
 
-### GitHub Pages
+### GitHub Pages (Automatic)
 
-To publish to GitHub Pages:
+This repository includes a GitHub Actions workflow that automatically builds and deploys the site to GitHub Pages when changes are pushed to the `main` or feature branches.
+
+To enable GitHub Pages:
+1. Go to your repository Settings > Pages
+2. Under "Build and deployment", select "GitHub Actions" as the source
+3. Push your changes to trigger the workflow
+
+The workflow will:
+- Install Quarto
+- Build the site
+- Deploy to GitHub Pages
+
+### Manual Publishing
+
+To manually publish to GitHub Pages:
 
 ```bash
 quarto publish gh-pages
